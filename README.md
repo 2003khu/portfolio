@@ -3,5 +3,5 @@ My portfolio website
 #output
 
 
-https://khushiiiii.netlify.app/
+(https://beamish-blini-d5c9d2.netlify.app/)
 
